@@ -1,0 +1,3 @@
+Link para o arquivo csv original
+
+https://www.kaggle.com/mlg-ulb/creditcardfraud
